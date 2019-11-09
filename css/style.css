@@ -146,7 +146,7 @@ body {
   overflow-x: hidden;
   font-family: 'Nunito', sans-serif;
   font-size: 16px;
-  line-height: 28px;
+  line-height: 25px;
 }
 
 p {
@@ -397,7 +397,7 @@ section {
 }
 
 .section-heading h2 small {
-  color: #b4b4b4;
+  color: #636262;
   font-size: 14px;
   letter-spacing: 1.4px;
   text-transform: uppercase;
@@ -967,6 +967,7 @@ ul.tw-dropdown-menu li a:hover {
 ul.tw-dropdown-menu li.active a {
   color: #0056b3;
 }
+
 
 /* Mega Menu
 =================================== */

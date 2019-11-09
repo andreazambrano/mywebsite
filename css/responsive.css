@@ -25,7 +25,7 @@
 
 /* Medium Devices, Desktops */
 
-@media (min-width: 992px) and (max-width:1199px) {
+@media (min-width: 768px) and (max-width:1199px) {
     /* Top Bar  */
     .tw-top-bar-angle .top-contact-info span {
         padding-right: 10px;
@@ -672,7 +672,7 @@
     .slider-wrapper,
     .tw-slider-1,
     .slider-1 .slider-wrapper {
-        min-height: 1000px;
+        min-height: 750px;
     }
     .slider-1 .slider-content {
         margin-top: 50px;
