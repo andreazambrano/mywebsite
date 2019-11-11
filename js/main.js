@@ -458,6 +458,14 @@ $(function ($) {
       $(".search-bar").removeClass('active');
    });
 
+   /* On Click search bar */
+   $(".tw-search i, .tw-offcanvas-menu i").on('click', function () {
+      $(".cotizador").addClass('active');
+   });
+   $(".search-bar i.fa-close").on('click', function () {
+      $(".cotizador").removeClass('active');
+   });
+
    /* Onclick offcanvas menu visible */
    $(".tw-menu-bar").on("click", function () {
       $(".offcanvas-wrapper").addClass('active');

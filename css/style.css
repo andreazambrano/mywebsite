@@ -149,6 +149,25 @@ body {
   line-height: 25px;
 }
 
+
+.modal-contenido{
+  background-color:aqua;
+  width:300px;
+  padding: 10px 20px;
+  margin: 20% auto;
+  position: relative;
+}
+.modal{
+  background-color: rgba(0,0,0,.8);
+  position:fixed;
+  top:0;
+  right:0;
+  bottom:0;
+  left:0;  
+}
+
+
+
 p {
   font-family: 'Nunito', sans-serif;
   font-size: 16px;
@@ -1043,7 +1062,7 @@ li.dropdown:hover .tw-mega-menu {
       =============================*/
 .search-bar-fixed {
   position: absolute;
-  top: 50%;
+  top: 10%;
   left: 50%;
   margin-left: -25%;
   width: 100%;
@@ -1053,12 +1072,12 @@ li.dropdown:hover .tw-mega-menu {
   padding: 15px 0px;
   background: transparent;
   border: none;
-  border-bottom: 1px solid #ffffff4d;
+  border-bottom: 1px solid #00000080;
   font-size: 24px;
   text-transform: capitalize;
   font-weight: 700;
   width: 50%;
-  color: #fff;
+  color: #000;
 }
 
 .search-bar-fixed input[type="text"]::-webkit-input-placeholder, .search-bar-fixed input[type="text"]::-moz-placeholder, .search-bar-fixed input[type="text"]:-ms-input-placeholder, .search-bar-fixed input[type="text"]::-ms-input-placeholder, .search-bar-fixed input[type="text"]::-webkit-input-placeholder {
@@ -1076,7 +1095,7 @@ li.dropdown:hover .tw-mega-menu {
 .search-bar-fixed button[type="submit"] {
   background: transparent;
   border: none;
-  color: #fff;
+  color: #000;
   position: relative;
   right: 30px;
 }
@@ -1092,12 +1111,12 @@ li.dropdown:hover .tw-mega-menu {
   top: 0;
   left: -100%;
   z-index: 101;
-  background: #000;
+  background: #fff;
   content: "";
   -webkit-transition: all 0.4s ease-in;
   -o-transition: all 0.4s ease-in;
   transition: all 0.4s ease-in;
-  opacity: 0.9;
+  opacity: 1.1;
   visibility: hidden;
 }
 
@@ -1107,7 +1126,7 @@ li.dropdown:hover .tw-mega-menu {
 }
 
 .search-bar i.fa-close {
-  color: #fff;
+  color: #000;
   position: absolute;
   right: 50px;
   top: 40px;

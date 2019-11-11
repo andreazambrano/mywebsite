@@ -11,6 +11,8 @@
 
    <!-- Site Title- -->
    <title>TuW3bSite | Desarrollo web</title>
+   <meta name="description" content="Diseño y desarrollo web">
+   <meta name="keywords" content="profesional, portfolio, Website, desing, developer, html, css, content, ecommerce, CMS">
 
    <!-- CSS
    ==================================================== -->
@@ -50,14 +52,23 @@
 </head>
 
 <body>
-   <div class="search-bar">
+   <div class="search-bar" id="cotizador">
       <i class="fa fa-close"></i>
       <form class="search-bar-fixed" action="index.html#">
-         <input type="text" placeholder="search...">
-         <button type="submit"><i class="fa fa-search"></i></button>
+         <input class="form-control form-name" name="name" id="name" placeholder="Nombre del proyecto" type="text" required="">
+         <input class="form-control form-name" name="name" id="name" placeholder="Tipo de pagina web" type="text" required="">
+         <input class="form-control form-name" name="name" id="name" placeholder="color" type="text" required="">
+         <input class="form-control form-name" name="name" id="name" placeholder="Url de referencia" type="text" required="">
+         <input class="form-control form-name" name="phone" id="name" placeholder="Tematica" type="text" required="">
+         <input class="form-control form-name" name="name" id="name" placeholder="NUmero telefonico" type="text" required="">
+         <div class="text-center">
+         <button class="btn btn-primary" tw-mt-30 type="submit"><i class="fa fa-send"> </i>Solicitar cotización</button>
+         </div>
       </form>
    </div>
    <!--End Search bar -->
+
+   <div>
 
    <div class="offcanvas-menu">
       <div class="offcanvas-menu-overlay"></div>
@@ -124,6 +135,7 @@
                            <li><a href="index.html#"><i class="fa fa-facebook"></i></a></li>
                            <li><a href="index.html#"><i class="fa fa-instagram"></i></a></li>
                         </ul>
+
                      </div>
                      <div class="menu-subscribe">
                         <h3>
@@ -178,7 +190,7 @@
                      <li class="nav-item"><a class="nav-link" href="case-studies.html">Portafolio</a></li>
                      <!-- End Dropdown -->
                      <li class="nav-item dropdown">
-                        <a class="nav-link" href="index-9.html#" data-toggle="dropdown">
+                        <a class="nav-link" href="service.html" data-toggle="dropdown">
                            Webs
                            <span class="tw-indicator"><i class="fa fa-angle-down"></i></span>
                         </a>
@@ -194,14 +206,16 @@
                      <!-- End Dropdown -->
                      <li class="nav-item"><a class="nav-link" href="contact.html">Contacto</a></li>
                      <li class="nav-item" ><a class="nav-link" href="contact.html" style="color:#f9057c; font-weight:700;">Shops</a></li>
+
                   </ul>
                         <!-- End Navbar Nav -->
                     </div>
                     <!-- End of navbar collapse -->
 
                     <div class="tw-off-search d-none d-lg-inline-block">
-                        <div class="tw-search">
-                            <i class="fa fa-whatsapp"></i><a href=""></a>
+                       <div class="tw-search">
+                         <i class="fa fa-envelope-open-o "></i>
+                         </a>
                         </div>
                         <div class="tw-menu-bar-default tw-menu-bar" id="open-button">
                             <span></span>
@@ -236,7 +250,7 @@
                         <div class="slider-content">
                            <h1>Agencia <span>creativa </span> Digital </h1>
                            <p>Diseño y desarrollo web</p>
-                           <a href="index-8.html#" class="btn btn-primary">Que tipo de página deseas?</a>
+                           <a href="#cotizador" class="btn btn-primary">Que tipo de página deseas?</a>
                         </div>
                         <!-- End Slider Content -->
                      </div>
@@ -265,7 +279,7 @@
                            <span>Internet</span>
                            </h1>
                            <p>Estrategias de Marketing y optimización en buscadores</p>
-                           <a href="index.html#" class="btn btn-primary">Cotización grátis</a>
+                           <a href="#cotizador" class="btn btn-primary">Cotización grátis</a>
                         </div>
                      </div>
                      <!-- Col end -->
@@ -344,7 +358,7 @@
                   <div class="service-content">
                      <h3>Páginas Informativas</h3>
                      <p>Para profesional o empresa. Permitase indicar servicios, establecer comunicación con clientes, exhibir productos o servicios.</p>
-                     <a href="index.html#" class="tw-readmore">Solicitar
+                     <a href="infor.html" class="tw-readmore">Solicitar
                         <i class="fa fa-angle-right"></i>
                      </a>
                   </div>
@@ -364,7 +378,7 @@
                   <div class="service-content">
                      <h3>Paginas administrativas</h3>
                      <p>Implementamos Gestores de contenido "CMS" y tiendas prefabricadas.</p>
-                     <a href="index.html#" class="tw-readmore">Solicitar
+                     <a href="admin.html" class="tw-readmore">Solicitar
                         <i class="fa fa-angle-right"></i>
                      </a>
                   </div>
@@ -384,7 +398,7 @@
                   <div class="service-content">
                      <h3>Web a medida</h3>
                      <p>Desarrollo de aplicaciones web fabricadas a medida. Solicitadas para Sistemas de reservas, E-learning, Cotizaciones, Directorios, entre otros.</p>
-                     <a href="index.html#" class="tw-readmore">Solicitar
+                     <a href="medida.html" class="tw-readmore">Solicitar
                         <i class="fa fa-angle-right"></i>
                      </a>
                   </div>
@@ -408,7 +422,7 @@
                   <div class="service-content">
                      <h3>Hosting y Dominios</h3>
                      <p>Ofrecemos hospedaje para alojar tu proyecto web y registramos tu Dominio !aportamos titularidad¡</p>
-                     <a href="index.html#" class="tw-readmore">Solicitar
+                     <a href="#solicitudServicio" class="tw-readmore">Solicitar
                         <i class="fa fa-angle-right"></i>
                      </a>
                   </div>
@@ -428,7 +442,7 @@
                   <div class="service-content">
                      <h3>Posicionamiento</h3>
                      <p>Generamos contenido de calidad y optimización SEO para Google, Velocidad de carga, actualizaciones, soporte técnico y garantía de disponibilidad.</p>
-                     <a href="index.html#" class="tw-readmore">Solicitar
+                     <a href="#solicitudServicio" class="tw-readmore">Solicitar
                         <i class="fa fa-angle-right"></i>
                      </a>
                   </div>
@@ -448,7 +462,7 @@
                   <div class="service-content">
                      <h3>Marketing Digital y Social</h3>
                      <p>Te ayudamos a crecer a traves de las RRSS con la Creación y administración de tus redes sociales.</p>
-                     <a href="index.html#" class="tw-readmore">Solicitar
+                     <a href="#solicitudServicio" class="tw-readmore">Solicitar
                         <i class="fa fa-angle-right"></i>
                      </a>
                   </div>
@@ -533,7 +547,7 @@
                <!-- End Work Process -->
             </div>
             <!-- End Col -->
-            <div class="col-md-12 text-center wow zoomIn" data-wow-duration="1s" data-wow-delay="1.2s"><a href="index.html#" class="btn btn-primary tw-mt-80">Solicita tu pagina ahora</a></div>
+            <div class="col-md-12 text-center wow zoomIn" data-wow-duration="1s" data-wow-delay="1.2s"><a href="" class="btn btn-primary tw-mt-80">Solicita tu pagina ahora</a></div>
          </div>
          <!-- End Row -->
       </div>
@@ -665,42 +679,11 @@
                                  <!-- Pricing Features End -->
                                  <div class="pricing-price">
                                     <sup>$</sup>
-                                    <strong>9</strong>
-                                    <small>Month</small>
+                                    <strong>79,99</strong>
+                                    <small>P/único</small>
                                  </div>
                                  <!-- Pricing End -->
-                                 <a href="index.html" class="btn btn-dark">buy now</a>
-
-                              </div>
-                              <!--  pricing box ends -->
-                           </div>
-                           <!-- COl end -->
-                           <div class="col-md-4 animated fadeIn">
-                              <div class="tw-pricing-box pricing-featured">
-                                 <div class="price-icon-bg">
-                                    <div class="price-icon">
-                                       <img src="images/pricing/pricing_icon2.png" alt="" class="img-fluid">
-                                    </div>
-                                 </div>
-                                 <!-- End Pricing icon bg -->
-                                 <div class="pricing-feaures">
-                                    <h3>Growing Business</h3>
-                                    <ul>
-                                       <li>25 Analytics Compaign</li>
-                                       <li>1,300 Keywords</li>
-                                       <li>25 social media reviews</li>
-                                       <li>1 Free Optimization</li>
-                                       <li>24/7 support</li>
-                                    </ul>
-                                 </div>
-                                 <!-- Pricing Features End -->
-                                 <div class="pricing-price">
-                                    <sup>$</sup>
-                                    <strong>29</strong>
-                                    <small>Month</small>
-                                 </div>
-                                 <!-- Pricing End -->
-                                 <a href="index.html" class="btn btn-dark">buy now</a>
+                                 <a href="#" class="btn btn-dark">Solicitar</a>
 
                               </div>
                               <!--  pricing box ends -->
@@ -715,7 +698,7 @@
                                  </div>
                                  <!-- End Pricing icon bg -->
                                  <div class="pricing-feaures">
-                                    <h3>Pro Business</h3>
+                                    <h3>Empresarial</h3>
                                     <ul>
                                        <li>25 Analytics Compaign</li>
                                        <li>1,300 Keywords</li>
@@ -726,16 +709,48 @@
                                  <!-- Pricing Features End -->
                                  <div class="pricing-price">
                                     <sup>$</sup>
-                                    <strong>49</strong>
-                                    <small>Month</small>
+                                    <strong>249,99</strong>
+                                    <small>P/único</small>
                                  </div>
                                  <!-- Pricing End -->
-                                 <a href="index.html" class="btn btn-dark">buy now</a>
+                                 <a href="index.html" class="btn btn-dark">Solicitar</a>
 
                               </div>
                               <!--  pricing box ends -->
                            </div>
                            <!-- COl end -->
+                           <div class="col-md-4 animated fadeIn">
+                              <div class="tw-pricing-box pricing-featured">
+                                 <div class="price-icon-bg">
+                                    <div class="price-icon">
+                                       <img src="images/pricing/pricing_icon2.png" alt="" class="img-fluid">
+                                    </div>
+                                 </div>
+                                 <!-- End Pricing icon bg -->
+                                 <div class="pricing-feaures">
+                                    <h3>  <element>Emprendedor</element></h3>
+                                    <ul>
+                                       <li>25 Analytics Compaign</li>
+                                       <li>1,300 Keywords</li>
+                                       <li>25 social media reviews</li>
+                                       <li>1 Free Optimization</li>
+                                       <li>24/7 support</li>
+                                    </ul>
+                                 </div>
+                                 <!-- Pricing Features End -->
+                                 <div class="pricing-price">
+                                    <sup>$</sup>
+                                    <strong>149,99</strong>
+                                    <small>p/único</small>
+                                 </div>
+                                 <!-- Pricing End -->
+                                 <a href="index.html" class="btn btn-dark">Solicitar</a>
+
+                              </div>
+                              <!--  pricing box ends -->
+                           </div>
+                           <!-- COl end -->
+                           
                         </div>
                         <!-- Tab pane end -->
                      </div>
@@ -762,11 +777,11 @@
                                  <!-- Pricing Features End -->
                                  <div class="pricing-price">
                                     <sup>$</sup>
-                                    <strong>7</strong>
-                                    <small>Yearly</small>
+                                    <strong>149,99</strong>
+                                    <small>p/único</small>
                                  </div>
                                  <!-- Pricing End -->
-                                 <a href="index.html" class="btn btn-dark">buy now</a>
+                                 <a href="#" class="btn btn-dark">Solicitar</a>
 
                               </div>
                               <!--  pricing box ends -->
@@ -797,7 +812,7 @@
                                     <small>Yearly</small>
                                  </div>
                                  <!-- Pricing End -->
-                                 <a href="index.html" class="btn btn-dark">buy now</a>
+                                 <a href="index.html" class="btn btn-dark">Solicitar</a>
 
                               </div>
                               <!--  pricing box ends -->
@@ -827,7 +842,7 @@
                                     <small>Yearly</small>
                                  </div>
                                  <!-- Pricing End -->
-                                 <a href="index.html" class="btn btn-dark">buy now</a>
+                                 <a href="index.html" class="btn btn-dark">Solicitar</a>
 
                               </div>
                               <!--  pricing box ends -->
@@ -850,6 +865,50 @@
 
    </section>
    <!-- End Pricing -->
+   <section id="solicitudServicio" class="tw-contact-us bg-offwhite">
+      <div class="container">
+      <div class="contact-us-form">
+      <div class="row">
+            <div class="col">
+               <div class="section-heading text-center">
+                  <h2>
+                     <small>Solicitud de servicio</small>
+                    Escribenos <span>aqui</span>
+                  </h2>
+                  <span class="animate-border border-ash ml-auto mr-auto tw-mt-20 tw-mb-40"></span>
+               </div>
+            </div>
+            <!-- Col End -->
+         </div>
+               <form id="contact-form" class="contact-form" action="http://demo.themewinter.com/html/seobin/contact-form.php" method="POST">
+                  <div class="error-container"></div>
+                  <div class="row">
+                     <div class="col-lg-12">
+                        <div class="form-group">
+                           <input class="form-control form-name" name="name" id="name" placeholder="Servicio" type="text" required="">
+                        </div>
+                     </div>
+                     <!-- Col end -->
+                     <div class="col-lg-6">
+                        <div class="form-group">
+                           <input class="form-control form-phone" name="phone" id="phone" placeholder="Nombre" type="phone">
+                        </div>
+                     </div>
+                     <div class="col-lg-6">
+                        <div class="form-group">
+                           <input class="form-control form-email" name="email" id="email" placeholder="Email" type="email" required="">
+                        </div>
+                     </div>
+                  </div>
+                  <!-- Form row end -->
+                  <div class="text-center">
+                     <button class="btn btn-primary tw-mt-30" type="submit">Enviar</button>
+                  </div>
+               </form>
+               <!-- Form end -->
+      </div>
+      </div>
+   </section>
 
    <!-- End tw blog -->
 
@@ -1017,10 +1076,10 @@
                   <div class="col-md-12 col-lg-6">
                      <div class="footer-widget">
                         <div class="section-heading">
-                           <h3>Subscribete</h3>
+                           <h3>Solicitar</h3>
                            <span class="animate-border border-black"></span>
                         </div>
-                        <p>Don’t miss to subscribe to our new feeds, kindly fill the form below.</p>
+                        
                         <form action="index.html#">
                            <div class="form-row">
                               <div class="col tw-footer-form">
@@ -1070,10 +1129,15 @@
       <!-- Back to top -->
       <div id="back-to-top" class="back-to-top">
          <button class="btn btn-dark" title="Back to Top">
-            <i class="fa fa-angle-up"></i>
+            <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+             <a href="https://api.whatsapp.com/send?phone=584147529202&text=Hola!!%20Necesito%20ayuda%20con%20mi%20sitio%20web." class="float" target="_blank">
+             <i class="fa fa-whatsapp my-float"></i>
+             </a>
          </button>
       </div>
       <!-- End Back to top -->
+      
+      
    </footer>
    <!-- End Footer -->
 
