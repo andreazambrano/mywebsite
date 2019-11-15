@@ -401,13 +401,17 @@ button:hover {
 
 /* Section Padding */
 section {
-  padding: 100px 0;
+  padding: 25px 50px;
+    padding-top: 25px;
+    padding-right: 0px;
+    padding-bottom: 50px;
+    padding-left: 0px;
   position: relative;
 }
 
 /* Section Heading */
 .section-heading {
-  margin-bottom: 80px;
+  margin-bottom: 50px;
 }
 
 .section-heading h2 {
@@ -4631,11 +4635,11 @@ ul.comments-reply .comment-body {
 }
 
 .analytics-img {
-  margin-bottom: 165px;
+  margin-bottom: 100px;
 }
 
 .tw-web-analytics-content {
-  margin-bottom: 165px;
+  margin-bottom: 100px;
   position: relative;
   z-index: 2;
 }
