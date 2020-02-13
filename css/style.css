@@ -2449,18 +2449,18 @@ input.round-btn {
   display: table;
   width: 100%;
   background: url("../images/pricing/pricing_icon_bg.png");
-  background-position: center;
+  background-position: left;
   background-repeat: no-repeat;
 }
 
 .price-icon-bg .price-icon {
-  text-align: center;
+  text-align: left;
   display: table-cell;
   vertical-align: middle;
 }
 
 .pricing-feaures {
-  text-align: center;
+  text-align: left;
   margin-top: 15px;
 }
 
@@ -2486,7 +2486,7 @@ input.round-btn {
 
 .pricing-price {
   margin: 30px 0 25px;
-  text-align: center;
+  text-align: left;
 }
 
 .pricing-price sup {
