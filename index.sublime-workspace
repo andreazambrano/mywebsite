@@ -1,0 +1,452 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dise",
+				"diseñoEditorial"
+			],
+			[
+				"dis",
+				"diseñoEditorial"
+			],
+			[
+				"Br",
+				"Brothers"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"lo",
+				"logotipos"
+			],
+			[
+				"logo",
+				"logofolio"
+			],
+			[
+				"ng",
+				"ngSetDiscount"
+			],
+			[
+				"shop",
+				"shop-product__price"
+			],
+			[
+				"ion-",
+				"ion-android-person"
+			],
+			[
+				"chec",
+				"checkCategory"
+			],
+			[
+				"mrg",
+				"mrg-top-0"
+			],
+			[
+				"tra",
+				"transform-style\tproperty"
+			],
+			[
+				"borer",
+				"border-right\tproperty"
+			],
+			[
+				"colmd-",
+				"col-md-4"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"tixs",
+				"tixes"
+			],
+			[
+				"price",
+				"priceCon"
+			],
+			[
+				"pric",
+				"priceCon"
+			],
+			[
+				"set",
+				"setSize"
+			],
+			[
+				"mo",
+				"moccs"
+			],
+			[
+				"global",
+				"globalPrice"
+			],
+			[
+				"tallas",
+				"tallasBotas"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"main",
+				"main-header"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"type",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"typescri",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"ty",
+				"Set Syntax: OCamlyacc"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 137.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": true,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/var/www/html/fran2/redesSociales.html",
+		"/var/www/html/fran2/services.html",
+		"/var/www/html/fran2/portfolio.html",
+		"/var/www/html/fran2/jhon.html",
+		"/var/www/html/fran2/merida.html",
+		"/var/www/html/fran2/neto.html",
+		"/var/www/html/fran2/mitsubishi.html",
+		"/var/www/html/fran2/inversiones.html",
+		"/var/www/html/fran2/imr.html",
+		"/var/www/html/fran2/hilos.html",
+		"/var/www/html/fran2/fuso.html",
+		"/var/www/html/fran2/fanzi.html",
+		"/var/www/html/fran2/eternal.html",
+		"/var/www/html/fran2/empireDE.html",
+		"/var/www/html/fran2/empire.html",
+		"/var/www/html/fran2/dialsurDE.html",
+		"/var/www/html/fran2/contact.html",
+		"/var/www/html/fran2/canelle.html",
+		"/var/www/html/fran2/index.html",
+		"/var/www/html/fran2/boutit.html",
+		"/var/www/html/fran2/diseñoEditorial.html",
+		"/var/www/html/fran2/logofolio.html",
+		"/var/www/html/fran2/assets/css/style.css",
+		"/var/www/html/fran2/galeria.html",
+		"/home/user/projets/pwa--prasi/src/app/services/data-api.service.ts",
+		"/home/user/projets/pwa--prasi/src/app/components/addtixs/addtixs.component.ts",
+		"/home/user/projets/pwa--prasi/src/app/file-picker.adapter.ts",
+		"/home/user/projets/pwa--prasi/src/app/services/activity-tracker.service.ts",
+		"/home/user/projets/pwa--prasi/src/app/services/auth.service.ts",
+		"/home/user/projets/pwa--prasi/src/app/components/prasidiscount/prasidiscount.component.html",
+		"/home/user/projets/pwa--prasi/src/app/components/prasidiscount/prasidiscount.component.ts",
+		"/home/user/projets/pwa--prasi/src/app/components/prasitopbar/prasitopbar.component.html",
+		"/home/user/projets/pwa--prasi/src/app/components/prasiproductdetail/prasiproductdetail.component.html",
+		"/home/user/projets/pwa--prasi/src/app/components/prasicategorycarousel/prasicategorycarousel.component.html",
+		"/home/user/projets/pwa--prasi/src/app/components/prasicategorycarousel/prasicategorycarousel.component.ts",
+		"/home/user/projets/pwa--prasi/src/app/components/prasifooter/prasifooter.component.html",
+		"/home/user/projets/pwa--prasi/src/app/components/prasitopfooter/prasitopfooter.component.ts",
+		"/home/user/projets/pwa--prasi/src/app/components/prasitopbar/prasitopbar.component.ts",
+		"/home/user/projets/pwa--prasi/src/app/components/prasiinstagramfeed/prasiinstagramfeed.component.ts",
+		"/home/user/projets/pwa--prasi/src/app/services/user-w.service.ts",
+		"/home/user/projets/pwa--prasi/src/app/components/prasitopfooter/prasitopfooter.component.html",
+		"/home/user/projets/pwa--prasi/src/assets/assetsprasi/css/main.css",
+		"/home/user/projets/pwa--prasi/src/app/components/nav/nav.component.ts",
+		"/home/user/projets/pwa--prasi/src/app/components/prasiinstagramfeed/prasiinstagramfeed.component.html",
+		"/home/user/projets/pwa--prasi/src/app/components/prasifilter/prasifilter.component.html",
+		"/home/user/projets/pwa--prasi/src/assets/assetsprasi/js/plugins.js",
+		"/home/user/projets/pwa--prasi/src/app/components/prasiproductdetail/prasiproductdetail.component.ts",
+		"/home/user/projets/pwa--prasi/src/assets/assetsprasi/js/main.js",
+		"/home/user/projets/pwa--prasi/src/app/components/prasiabout/prasiabout.component.ts",
+		"/home/user/projets/pwa--prasi/src/app/components/prasifilter/prasifilter.component.ts",
+		"/home/user/projets/pwa--prasi/src/app/components/prasiaboutoverlay/prasiaboutoverlay.component.html",
+		"/home/user/projets/pwa--prasi/src/app/components/prasicontact/prasicontact.component.html",
+		"/home/user/projets/pwa--prasi/src/app/components/prasiabout/prasiabout.component.html",
+		"/home/user/projets/pwa--prasi/src/assets/assetsbusak/css/main.css",
+		"/home/user/projets/pwa--prasi/src/assets/css/style.css",
+		"/home/user/projets/pwa--prasi/src/app/components/prasifooter/prasifooter.component.ts",
+		"/home/user/projets/pwa--prasi/src/app/components/prasislider/prasislider.component.html",
+		"/home/user/projets/pwa--prasi/src/app/components/prasiproductcatalog/prasiproductcatalog.component.html",
+		"/home/user/projets/pwa--prasi/src/app/components/my-tixs/my-tixs.component.html",
+		"/home/user/projets/pwa--prasi/src/app/components/prasiproductcatalog/prasiproductcatalog.component.ts",
+		"/home/user/projets/pwa--prasi/src/app/app.routes.ts",
+		"/home/user/projets/pwa--prasi/src/app/components/index.paginas.ts",
+		"/home/user/Airdecap.txt",
+		"/var/www/html/prasicl/index-lookbook.html",
+		"/home/user/projets/pwa--prasi/src/app/components/testapp/testapp.component.html",
+		"/home/user/projets/pwa--prasi/src/app/app.module.ts",
+		"/home/user/projets/pwa--prasi/src/assets/assetsprasi/css/ionicons.min.css",
+		"/home/user/projets/pwa--prasi/src/assets/assetsprasi/fonts/ionicons.svg",
+		"/home/user/projets/pwa--prasi/src/app/components/prasiconfirmationoverlay/prasiconfirmationoverlay.component.html",
+		"/home/user/projets/pwa--manage/src/app/components/index.paginas.ts",
+		"/home/user/projets/pwa--prasi/src/app/components/prasicartoverlay/prasicartoverlay.component.html",
+		"/home/user/projets/pwa--prasi/src/app/models/tix-interface.ts",
+		"/home/user/projets/pwa--prasi/src/app/models/add-interface.ts",
+		"/home/user/projets/pwa--prasi/src/app/components/addtixs/addtixs.component.html",
+		"/home/user/Documentos/datosprasiNIC.txt",
+		"/home/user/projets/pwa--prasi/src/app/components/prasishopcart/prasishopcart.component.ts",
+		"/home/user/projets/pwa--prasi/src/app/components/prasicartoverlay/prasicartoverlay.component.ts",
+		"/home/user/projets/pwa--prasi/src/app/components/prasishopcart/prasishopcart.component.html",
+		"/home/user/projets/pwa--prasi/node_modules/@types/jasmine/index.d.ts",
+		"/home/user/projets/pwa--andes/src/app/components/tix-detail/tix-detail.component.ts",
+		"/home/user/projets/pwa--andes/src/app/components/tix-detail/tix-detail.component.html",
+		"/home/user/projets/pwa--prasi/src/app/components/admin/admin.component.ts",
+		"/home/user/projets/pwa--prasi/src/app/components/tix-detail/tix-detail.component.html",
+		"/home/user/projets/pwa--prasi/src/app/components/affiliate-detail/affiliate-detail.component.ts",
+		"/var/www/html/fran2/diseñoPublicitario.html",
+		"/var/www/html/prasicl/shop-checkout.html",
+		"/home/user/projets/pwa--prasi/src/app/components/addtixs/addtixs.component.css",
+		"/home/user/projets/pwa--prasi/src/app/components/prasisearchoverlay/prasisearchoverlay.component.html",
+		"/var/www/html/prasicl/shop-by-brand.html",
+		"/home/user/projets/pwa--manage/src/app/components/prasiproductdetail/prasiproductdetail.component.html",
+		"/home/user/projets/pwa--prasi/src/assets/file-picker/src/lib/default-captions.ts",
+		"/home/user/projets/pwa--prasi/src/assets/file-picker/src/lib/file-picker.component.scss",
+		"/home/user/projets/pwa--prasi/src/app/components/prasiproductdetail/prasiproductdetail.component.css",
+		"/home/user/projets/pwa--manage/src/app/components/footer/footer.component.html",
+		"/home/user/projets/pwa--manage/src/app/components/prasifooter/prasifooter.component.html",
+		"/home/user/projets/pwa--prasi/src/app/components/addtixs/addtixs.component.spec.ts",
+		"/home/user/projets/pwa--prasi/src/app/components/my-tixs/my-tixs.component.ts",
+		"/home/user/projets/pwa--prasi/src/index.html",
+		"/home/user/projets/pwa--manage/src/app/components/addtixs/addtixs.component.ts",
+		"/home/user/projets/pwa--prasi/src/app/components/prasishop/prasishop.component.html",
+		"/home/user/projets/pwa--prasi/src/app/components/prasishop/prasishop.component.ts",
+		"/home/user/projets/pwa--manage/src/app/components/addtixs/addtixs.component.html",
+		"/var/www/html/prasicl/shop-left-sidebar.html",
+		"/var/www/html/prasicl/element-instagram.html",
+		"/home/user/projets/imgPrasi/server/config.json",
+		"/var/www/html/prasicl/shop-product-basic.html",
+		"/home/user/projets/pwa--prasi/src/assets/css/style3.css",
+		"/home/user/projets/pwa--prasi/src/app/components/prasiproductdetail/prasiproductdetail.component.spec.ts",
+		"/home/user/projets/pwa--prasi/src/app/components/prasislider/prasislider.component.ts",
+		"/home/user/projets/pwa--prasi/src/app/components/testapp/testapp.component.ts",
+		"/home/user/projets/pwa--prasi/src/assets/assetsprasi/revolution/js/jquery.themepunch.tools.min.js",
+		"/home/user/prasi.sh",
+		"/home/user/projets/pwa--manage/src/assets/assetsprasi/js/main.js",
+		"/home/user/projets/pwa--manage/src/app/components/prasiproductdetail/prasiproductdetail.component.ts",
+		"/home/user/projets/pwa--manage/src/assets/assetsdulce/css/style.css",
+		"/home/user/projets/pwa--manage/src/app/services/data-api.service.ts",
+		"/home/user/projets/pwa--manage/src/app/components/dulceproductdetail/dulceproductdetail.component.html",
+		"/home/user/projets/pwa--manage/src/app/components/dulcetopbar/dulcetopbar.component.html",
+		"/home/user/projets/pwa--manage/src/app/components/dulceproductdetail/dulceproductdetail.component.ts",
+		"/home/user/projets/pwa--manage/src/app/services/auth.service.ts",
+		"/home/user/projets/pwa--manage/src/app/file-picker.adapter.ts",
+		"/home/user/projets/pwa--manage/src/assets/bower_components/blueimp-tmpl/README.md",
+		"/home/user/projets/pwa--manage/src/assets/bower_components/bootstrap/build/saucelabs-unit-test.js",
+		"/home/user/projets/pwa--manage/src/assets/bower_components/bootstrap/docs/4.0/getting-started/build-tools.md",
+		"/home/user/projets/pwa--manage/src/assets/bower_components/bootstrap/README.md",
+		"/home/user/projets/pwa--manage/src/assets/bower_components/chart.js/gulpfile.js",
+		"/home/user/projets/pwa--manage/src/assets/bower_components/popper.js/package.json",
+		"/home/user/projets/pwa--manage/src/assets/bower_components/select2/.github/CONTRIBUTING.md"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 180.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"prasidis",
+				"pwa--prasi/src/app/components/prasidiscount/prasidiscount.component.html"
+			],
+			[
+				"dataapi",
+				"pwa--prasi/src/app/services/data-api.service.ts"
+			],
+			[
+				"paginas",
+				"projets/pwa--manage/src/app/components/index.paginas.ts"
+			],
+			[
+				"prasipro",
+				"projets/pwa--manage/src/app/components/prasiproductdetail/prasiproductdetail.component.html"
+			],
+			[
+				"prasifoo",
+				"projets/pwa--manage/src/app/components/prasifooter/prasifooter.component.html"
+			],
+			[
+				"foot",
+				"projets/pwa--manage/src/app/components/footer/footer.component.html"
+			],
+			[
+				"addtixs",
+				"projets/pwa--manage/src/app/components/addtixs/addtixs.component.ts"
+			],
+			[
+				"/js/main.js",
+				"pwa--manage/src/assets/assetsprasi/js/main.js"
+			],
+			[
+				"addti",
+				"pwa--manage/src/app/components/addtixs/addtixs.component.html"
+			],
+			[
+				"prasiproduct",
+				"pwa--manage/src/app/components/prasiproductdetail/prasiproductdetail.component.ts"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 262.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
