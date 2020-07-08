@@ -804,11 +804,21 @@ section {
 }
 
 .tw-head {
+
   background: #fff;
   -webkit-box-shadow: 0 7px 8px 0px rgba(0, 0, 0, 0.06);
   box-shadow: 0 7px 8px 0px rgba(0, 0, 0, 0.06);
-  position: relative;
-  z-index: 2;
+ z-index: 2;
+ /* position: relative;
+  z-index: 2;*/
+  
+    /*-webkit-box-shadow: none;*/
+/*  box-shadow: none;
+  background: #fff;*/
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
 }
 
 .navbar {
@@ -1180,7 +1190,7 @@ li.dropdown:hover .tw-mega-menu {
   right: -100%;
   z-index: 3;
   background: #fff;
-  padding: 60px 50px;
+  padding: 60px 30px;
   height: 100%;
   overflow-y: scroll;
   opacity: 0;

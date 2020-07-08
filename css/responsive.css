@@ -577,6 +577,7 @@
     /* Header */
     .tw-head {
         width: 100%;
+        
     }
     /* Navbar */
     ul.navbar-nav li.nav-item>a {
@@ -673,6 +674,7 @@
     .tw-slider-1,
     .slider-1 .slider-wrapper {
         min-height: 750px;
+
     }
     .slider-1 .slider-content {
         margin-top: 50px;
